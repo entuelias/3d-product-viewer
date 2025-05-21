@@ -63,7 +63,3 @@ Made with ❤️ by Entisar Elias
 
 ```
 
----
-
-Let me know when it’s deployed and I’ll go check the **robot in action 🤖** 🎉
-```
